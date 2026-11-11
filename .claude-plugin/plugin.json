@@ -1,0 +1,7 @@
+{
+  "name": "reel-lessons",
+  "version": "1.0.0",
+  "description": "Turn a how-to reel or short video into working changes: watch it, pull out the concrete lessons, fact-check the claims, and build or update Claude Code skills, with a report of what was built and what was skipped.",
+  "author": { "name": "McGivney Media", "email": "shannon@mcgivneymedia.com" },
+  "keywords": ["claude-code", "skills", "instagram", "reels", "video", "learning", "automation"]
+}
